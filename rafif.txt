@@ -1,0 +1,12 @@
+Nama  : Rafif Ikram Taufiq Abdurrahman
+Gugus : Java
+
+Figma adalah alat desain berbasis cloud yang digunakan untuk membuat UI/UX design (user interface & user experience),
+prototyping, serta kolaborasi desain secara real-time. Karena berbasis web, kita bisa mengaksesnya lewat browser tanpa harus install software besar, walaupun ada juga aplikasi desktop dan mobile-nya.
+
+Fungsi utama Figma:
+1. Desain UI/UX. 
+2. Prototyping. 
+3. Kolaborasi real-time. 
+4. Asset Export. 
+5. Version Control.
