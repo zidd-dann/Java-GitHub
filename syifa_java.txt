@@ -1,0 +1,48 @@
+Nama  :Koirusy Syifa'
+Gugus :JAVA
+
+Figma adalah alat desain digital berbasis vector dan cloud yang memungkinkan kolaborasi real-time dalam pembuatan prototipe aplikasi, situs web, dan antarmuka pengguna (UI)
+Figma memungkinkan desainer untuk berkolaborasi pada proyek yang sama secara simultan, membuat desain yang dapat diskalakan dengan mudah, dan membangun prototipe yang interaktif untuk diuji oleh pengguna sebelum produk diluncurkan. 
+    # Keunggulan Figma
+1.Kolaborasi Real-time: Tim desainer dapat bekerja secara bersamaan pada satu file proyek yang sama dari lokasi geografis mana pun, meningkatkan efisiensi dan komunikasi. 
+
+2.Prototipe Interaktif: Pengguna dapat membuat prototipe yang dapat diklik dengan transisi dan animasi antar frame tanpa memerlukan coding, memberikan pengalaman pengguna yang mendekati nyata. 
+
+3.Komponen dan Styles: Fitur komponen memungkinkan pembuatan elemen desain yang dapat digunakan kembali di seluruh proyek, menjaga konsistensi dan menghemat waktu, sementara fitur styles memungkinkan penyimpanan warna, teks, dan efek agar konsisten. 
+
+4.Aksesibilitas Berbasis Web: Figma berjalan di browser web, memungkinkan pengguna untuk mengakses dan mengerjakan proyek dari perangkat apa pun asalkan ada koneksi internet, tanpa perlu instalasi perangkat lunak. 
+
+5.Manajemen Versi Otomatis: Setiap perubahan yang dibuat pada file Figma disimpan secara otomatis, memungkinkan desainer untuk melacak riwayat versi dan dengan mudah kembali ke versi sebelumnya. 
+
+6.Ekosistem Plugin dan Integrasi: Komunitas Figma yang aktif menyediakan berbagai plugin yang dapat memperluas fungsionalitasnya, seperti menambahkan aset desain (ikon, gambar) atau mengotomatiskan tugas-tugas desain. 
+
+7.Auto Layout: Fitur ini membuat tata letak desain menjadi responsif secara otomatis. Ketika konten berubah atau ukuran element diubah, tata letak akan menyesuaikan dirinya sendiri, mempercepat pembuatan desain yang adaptif. 
+
+8.Dukungan Cross-Platform: Figma tersedia untuk berbagai sistem operasi seperti Windows dan Mac OS, sehingga dapat digunakan oleh lebih banyak desainer tanpa batasan platform. 
+    # Figma dibuat dengan memiliki beberapa fitur canggih yang membantumu untuk bekerja. Adapun beberapa nama fitur tersebut antara lain sebagai berikut.
+
+Prototype:
+Aplikasi Figma menyediakan fitur prototype dalam melakukan proses desain saat membangun website maupun aplikasi. Ada berbagai fitur prototype yang dapat kamu coba seperti GIF hingga ragam jenis interaksi yang dapat kamu coba.
+
+Desain:
+Figma menawarkan berbagai fitur desain yang menarik dan membuat desain yang kamu buat secara responsif dan otomatis menggunakan plugin. Atribut design yang bisa kamu coba seperti open type, pen tool modern, stretch to fill, dan lainnya.
+
+Collaboration:
+Selanjutnya, aplikasi Figma memiliki fitur collaboration yang dapat kamu gunakan ketika kamu bekerja dalam tim untuk membuat desain. Fitur ini akan memudahkan kamu bekerja sama dalam satu page yang akan otomatis tersimpan secara realtime.
+
+Design System:
+Melalui fitur ini kamu dapat menikmati library dan aset yang lengkap dalam aplikasi Figma. Fitur ini akan memperlihatkan aksesibilitas dan elemen pendukung lainnya yang cukup lengkap untuk kamu coba.
+
+ 
+    # Bulleted Lists
+Figma memiliki fitur bulleted lists dalam proyek UI/UX design yang akan kamu buat. Dengan fitur ini, akan memudahkan kamu mengatur data dengan mudah dan menekankan informasi dalam desain vektor.
+
+Inspect Tab:
+Melalui fitur ini akan memungkikan kolaborator terutama para Developer untuk mendapatkan nilai dan kode dari desain yang sedang kamu kerjakan. Selain itu, anggota tim lainnya juga dapat mengedit data dengan menambahkan warna, bayangan, border, typography melalui fitur ini.
+
+Instance Swap Menu:
+Fitur ini baru saja diperbaharui pada tahun 2020 lalu dan memudahkan penggunanya untuk melihat segala elemen dari desain yang kamu buat. Ini menjadi salah satu fitur terbaik Figma yang memungkinkan kamu untuk browsing seluruh komponen yang tersedia di aplikasi dengan mudah. 
+
+Figma Community Files dan Plugins Library:
+Figma memiliki platform komunitas yang cukup banyak. Kamu juga dapat mempublikasikan proyek yang dibuat ke pengguna lainnya, sementara itu plugins library tersedia dengan performa yang tinggi secara stabil dan aman. 
+Ketika kamu membuat sebuah desain, akan ada lebih dari 40 plugin eksklusif yang tersedia dan akan terus bertambah. Selain itu, jika kamu berlangganan kamu dapat mendistribusikan plugin pribadi.
