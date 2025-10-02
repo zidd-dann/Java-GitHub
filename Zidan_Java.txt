@@ -1,0 +1,20 @@
+Nama  : Zidan Anwar Ramadhan
+Gugus : Java
+
+Figma adalah aplikasi desain berbasis web yang banyak digunakan untuk membuat antarmuka pengguna (UI)
+dan pengalaman pengguna (UX). Keunggulannya terletak pada kemudahan akses, karena bisa dijalankan langsung
+melalui browser tanpa instalasi yang berat. Hal ini membuat Figma populer tidak hanya di kalangan desainer
+profesional, tetapi juga pelajar maupun pemula yang baru belajar desain digital.
+
+Beberapa kelebihan utama Figma antara lain:
+
+- Kolaborasi real-time 	: memungkinkan banyak orang mengedit dan memberi komentar secara bersamaan.
+- Berbasis cloud 	: semua hasil kerja otomatis tersimpan dan bisa diakses dari perangkat manapun.
+- Komponen reusable 	: pengguna bisa membuat elemen desain yang dapat digunakan berulang, sehingga
+                    	  mempercepat proses pembuatan tampilan.
+- Gratis untuk pemula 	: versi gratisnya sudah cukup lengkap untuk belajar maupun proyek sederhana.
+
+Dengan kombinasi fitur tersebut, Figma menjadi salah satu alat penting dalam dunia desain modern.
+Tidak hanya bermanfaat untuk industri profesional, tetapi juga mendukung kegiatan belajar di bidang
+teknologi dan kreatif. Karena itulah, Figma dianggap sebagai solusi praktis, fleksibel, dan relevan
+untuk berbagai kebutuhan desain.
