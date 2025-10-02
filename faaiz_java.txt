@@ -1,0 +1,32 @@
+Nama  : faaiz achmad pramono
+Gugus :java
+
+Figma adalah sebuah platform desain antarmuka (UI/UX) berbasis web yang memungkinkan pengguna untuk membuat, mengedit, dan berkolaborasi dalam desain secara real-time. Figma sering digunakan oleh desainer, developer, dan tim produk untuk merancang aplikasi, situs web, prototipe, dan elemen visual lainnya.
+
+Beberapa fitur utama Figma:
+
+✅ Desain UI/UX: Membuat layout, wireframe, dan mockup aplikasi/web.
+
+✅ Kolaborasi langsung: Beberapa orang bisa bekerja di file yang sama secara bersamaan, mirip seperti Google Docs.
+
+✅ Prototyping: Membuat alur interaktif antar layar tanpa perlu coding.
+
+✅ Komentar: Tim bisa memberi feedback langsung di dalam desain.
+
+✅ Berbasis cloud: Tidak perlu install, cukup buka lewat browser. Tapi juga tersedia aplikasi desktop.
+
+Kelebihan Figma:
+
+Gratis untuk individu dan tim kecil.
+
+Cross-platform (Windows, Mac, Linux melalui browser).
+
+Sangat cocok untuk kerja tim dan kolaborasi jarak jauh.
+
+Contoh penggunaan:
+
+Mendesain tampilan aplikasi mobile.
+
+Membuat prototipe website untuk presentasi ke klien.
+
+Kolaborasi antara desainer dan developer dalam pengembangan produk digital.
